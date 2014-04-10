@@ -38,5 +38,6 @@
 			include "paginas/login.php";
 	
 	}
+	
 	include "includes/footer.php";
 ?>
